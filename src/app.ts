@@ -88,6 +88,7 @@ export class App {
   }
 
   static getRewrittenTagName(name: string) {
+        if (!name) return name;
     const suffix = ' - sGTM';
 
     return name.endsWith(suffix) ? name : `${name}${suffix}`;
