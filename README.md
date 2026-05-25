@@ -39,7 +39,7 @@ Please note, that triggers and some user-defined variables cannot be created due
 ## How to access the tool
 It is strongly recommended that you use the template spreadsheet to use the sGTM Migrator script. Follow these steps to make a copy of the template spreadsheet and start using the tool:
 1. Join the [sGTM Migrator Google Group](https://groups.google.com/g/sgtm-migrator).
-2. Make a copy of [SGTM Migrator (v1.20) spreadsheet](https://docs.google.com/spreadsheets/d/1JkP57DIHpDc6W-N-l7QGcxUf3k81p7FkWsMPgf_NwRs/edit?resourcekey=0-h-cb3OG-EWrYeeblr0bfjA#gid=1562666064).
+2. Make a copy of [SGTM Migrator (wasurocks) template spreadsheet](https://docs.google.com/spreadsheets/d/17lCaB0qeoLCb9K_IsK1R_wRA8x6Fgiy-yOy6AlyB0AE/copy).
 
 When you first run the sGTM Migrator tool, Google Sheets will require you to authorize the usage of Apps Scripts within the sheet.
 
